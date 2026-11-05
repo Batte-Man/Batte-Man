@@ -25,6 +25,6 @@ et stage d'activités professionnelles de 200 h).
 | [boutique-php](https://github.com/Batte-Man/boutique-php) | Boutique en ligne avec administration à deux rôles | PHP 8, MySQL, Bootstrap, PHPMailer |
 | [films-dao-mysql-mongodb](https://github.com/Batte-Man/films-dao-mysql-mongodb) | Même application sur MySQL ou MongoDB, interchangeables à chaud (pattern DAO) | Java, JDBC, MongoDB, Maven |
 | [mastermind](https://github.com/Batte-Man/mastermind) | Jeu de Mastermind (projet de 1re année) | Java Swing |
-| [bascule-wifi](https://github.com/Batte-Man/bascule-wifi) | Utilitaire Windows : bascule la carte Wi-Fi entre 5 GHz et Auto en un double-clic | PowerShell |
+| [bascule-wifi](https://github.com/Batte-Man/bascule-wifi) | Utilitaire Windows : bascule la carte Wi-Fi entre 5 GHz uniquement et Auto en un double-clic | PowerShell |
 | [cinebook](https://github.com/Batte-Man/cinebook) | Analyse et conception d'une plateforme films et séries | UML, PostgreSQL |
 | [linux-recommendation](https://github.com/KernGezondDenker/linux-recommendation) | *En cours* : projet d'intégration, site qui aide chacun à choisir sa distribution Linux selon sa configuration et ses besoins | Java, Spring Boot, React, MySQL |
